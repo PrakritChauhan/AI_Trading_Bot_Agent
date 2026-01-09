@@ -1,0 +1,11 @@
+[project]
+name = "trading-bot"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+dependencies = [
+  "yfinance",
+  "newspaper3k",
+  "python-dotenv",
+  "pydantic"
+]

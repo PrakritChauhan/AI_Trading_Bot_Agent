@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# uv
+.uv/
+.python-version
+
+# Environment variables
+.env
+
+# Data / state
+data/*.db
+data/*.sqlite
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
