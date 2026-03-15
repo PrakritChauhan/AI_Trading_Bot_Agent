@@ -1,0 +1,7 @@
+yfinance
+newspaper3k
+python-dotenv
+pydantic
+groq
+newsapi-python
+ollama
